@@ -1,5 +1,5 @@
 # SportView
-![image](https://github.com/PerfactLiu/SportView/blob/master/app/src/main/res/raw/sport.gif.gif)
+![image](https://github.com/PerfactLiu/SportView/blob/master/app/src/main/res/raw/sport.gif)
 
 #XML布局
 
